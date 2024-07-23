@@ -6,7 +6,7 @@
 **Solution Approach**: To achieve revenue growth for Rajvansh Hotels and Palaces, we will employ statistical measures to analyze their business data. We will focus on tracking weekly and monthly trends, conduct Level 1 and Level 2 analyses, and design an effective Power BI dashboard while adhering to the principle of asking "three whys" to uncover deeper insights.
 
 # Solution Details:
-**Statistical Measures**: Utilize statistical measures such as PEVPAR (Revenue per Room Available) and ADR (Average Daily Rate) to assess the hotel's financial performance.
+**Statistical Measures**: Utilize statistical measures such as REVPAR (Revenue per Room Available) and ADR (Average Daily Rate) to assess the hotel's financial performance.
 
 **Tracking Weekly and Monthly Trends**: Monitor the hotel's revenue and occupancy data on both weekly and monthly scales to identify patterns and anomalies.
 
@@ -61,9 +61,9 @@ By executing this comprehensive approach, Rajvansh Hotels and Palaces will have 
 
 # Key Metrics in the Hospitality Domain (Hotel Revenue):
 
-## - PEVPAR (Revenue per Available Room):
-   - Explain that PEVPAR is a critical metric in the hotel industry, representing the revenue generated per room that is available for booking.
-   - Discuss how PEVPAR can help assess the overall revenue performance of the hotel.
+## - REVPAR (Revenue per Available Room):
+   - Explain that REVPAR is a critical metric in the hotel industry, representing the revenue generated per room that is available for booking.
+   - Discuss how REVPAR can help assess the overall revenue performance of the hotel.
 
 ## - ADR (Average Daily Rate):
    - Explain ADR as the average price or rate at which rooms are sold per day.
